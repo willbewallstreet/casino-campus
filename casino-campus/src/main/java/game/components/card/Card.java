@@ -227,7 +227,7 @@ public class Card implements Comparable<Card> {
      */
     @Override
     public int hashCode() {
-        return java.util.Objects.hash(suit, rank);
+        return hash(suit, rank);
     }
     // TODO: 구현하세요
     //

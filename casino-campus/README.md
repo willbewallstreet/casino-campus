@@ -16,7 +16,7 @@ src/main/java/
 │   └── management/     # 게임 운영
 └── Main.java          # 시작점
 ```
-
+![alt text](image.png)
 ## 실행 방법
 
 ### IntelliJ IDEA 사용
